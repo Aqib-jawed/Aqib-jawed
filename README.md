@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aqib_Jawed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqib-jawed-6ta/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-250%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GV2023006524/)
 [![Gmail](https://img.shields.io/badge/Email-akkijawed567-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akkijawed567@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akki-Aqib)
+[![GitHub](https://img.shields.io/badge/GitHub-@YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aqib-jawed)
 
 </div>
 
@@ -147,9 +147,6 @@ const aqib = {
 
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
